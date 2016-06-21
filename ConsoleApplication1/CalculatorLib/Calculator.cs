@@ -16,5 +16,10 @@ namespace CalculatorLib
         {
             return a * b;
         }
+         public int Multiply1(int a,int b)
+        {
+            return a * b;
+        }
+   
     }
 }
